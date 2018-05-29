@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTINF:-0,MI TV 
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Warner
+http://photocall.tv/kr?ch=warner
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Univision
+https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_4500.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", TecTV
+http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-tectv/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.trecevisionyucatan.com.mx/files-content/conf/logo_left.png" group-title="Entretenimiento", Trece Vision
+http://streamingcws10.com:1935/trecevision/videotrecevision/chunklist_w1592230401_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", TVP Los Mochis
+https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1578529085_b978000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Ocho TV
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", RCN
+http://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?ref=www.canalrcn.com
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", LifeTV
+http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uno1one.files.wordpress.com/2009/02/logo-mm1.jpg" group-title="Entretenimiento", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="http://uno1one.files.wordpress.com/2009/02/logo-mm1.jpg" group-title="Entretenimiento", Multimedios Torreon
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" group-title="Entretenimiento", Azteca Trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ue6Egka2vQ4RUXmC0bQmHfWInNt7TtAUJbju1euIaNpYSs2xgsC-6Cy12bYsX7zF4301=w300" group-title="Entretenimiento", NiuMedia
+http://cl.origin.grupoz.cl/niutv/live.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/265_efekto-tv.png" group-title="Entretenimiento", Efekto Tv
+http://198.1.117.5:1935/live/livestream/.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", -[COLOR red]Canales Mexicanos[/COLOR]-
+http://127.0.0.1
+ 
+#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+ 
+#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Azteca 13 HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+ 
+#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Azteca Deportes HD
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
+ 
+#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", TVMas HD
+rtmp://50.7.98.234/rtv/videortv
+ 
+#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Canal de las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
+ 
+#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+ 
+#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+ 
+#EXTINF:-1, tvg-logo="" group-title="Canales Mexicanos", Telemundo
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+ 
+#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Azteca 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="azteca.png" group-title="Canales Mexicanos", Multimedios Tv
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
